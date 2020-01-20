@@ -1,0 +1,10 @@
+{
+	"object":{
+		"model":"noir_normal.moc",
+		"texture":{
+			"filename0":"noir_texture_00.png",
+			"filename1":"noir_normal_texture_02.png",
+			"filename2":"noir_texture_01.png"
+		}
+	}
+}

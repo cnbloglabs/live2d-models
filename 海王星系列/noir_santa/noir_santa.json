@@ -1,0 +1,10 @@
+{
+	"object":{
+		"model":"noir_santa.moc",
+		"texture":{
+			"filename0":"noir_texture_00.png",
+			"filename1":"02_clothes_d.png",
+			"filename2":"noir_texture_01.png"
+		}
+	}
+}

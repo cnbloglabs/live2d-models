@@ -1,0 +1,60 @@
+{
+  "type":"Live2D Model List",
+  "name":"さくら荘のペットな彼女",
+  "id":"Sakurasou",
+  "version":"1.0",
+  "encrypt":"false",
+	"list":
+	[
+     {
+     "character":"椎名真白",
+     "costume":
+     [
+      {"name":"制服", "path":"mashiro/seifuku.model.json"},
+      {"name":"私服", "path":"mashiro/shifuku.model.json"},
+      {"name":"寮服", "path":"mashiro/ryoufuku.model.json"}
+      ]
+     },
+     {
+     "character":"青山七海",
+     "costume":
+     [
+      {"name":"制服", "path":"nanami/seifuku.model.json"},
+      {"name":"私服", "path":"nanami/shifuku.model.json"},
+      {"name":"寮服", "path":"nanami/ryoufuku.model.json"}
+      ]
+     },
+     {
+     "character":"上井草美咲",
+     "costume":
+     [
+      {"name":"制服", "path":"misaki/seifuku.model.json"},
+      {"name":"私服", "path":"misaki/shifuku.model.json"},
+      {"name":"寮服", "path":"misaki/ryoufuku.model.json"}
+      ]
+     },
+     {
+     "character":"中野乙羽",
+     "costume":
+     [
+      {"name":"制服", "path":"otoha/seifuku.model.json"},
+      {"name":"私服", "path":"otoha/shifuku.model.json"},
+      {"name":"寮服", "path":"otoha/ryoufuku.model.json"}
+      ]
+     },
+     {
+     "character":"三鷹仁",
+     "costume":
+     [
+      {"name":"私服", "path":"jin/shifuku.model.json"}
+      ]
+     },
+     {
+     "character":"赤坂龍之介",
+     "costume":
+     [
+      {"name":"私服", "path":"ryunosuke/shifuku.model.json"}
+      ]
+     }
+  ]
+}

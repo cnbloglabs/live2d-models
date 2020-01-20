@@ -1,0 +1,11 @@
+{
+	"version":"Sample 1.0.0",
+	"model":"vert_swimwear.moc",
+	"textures":[
+		"vert_swimwear.1024/texture_00.png",
+		"vert_swimwear.1024/texture_01.png",
+		"vert_swimwear.1024/texture_02.png",
+		"vert_swimwear.1024/texture_03.png"
+	],
+	"physics":"vert_swimwear.physics.json"
+}

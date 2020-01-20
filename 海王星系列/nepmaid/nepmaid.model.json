@@ -1,0 +1,9 @@
+{
+	"version":"Sample 1.0.0",
+	"model":"nepmaid.moc",
+	"textures":[
+		"nepmaid.1024/texture_00.png",
+		"nepmaid.1024/texture_01.png",
+		"nepmaid.1024/texture_02.png",
+	],
+}

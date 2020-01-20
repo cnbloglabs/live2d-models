@@ -1,0 +1,9 @@
+{
+	"version":"Sample 1.0.0",
+	"model":"nepnep.moc",
+	"textures":[
+		"nepnep.1024/texture_00.png",
+		"nepnep.1024/texture_01.png",
+		"nepnep.1024/texture_02.png",
+	],
+}

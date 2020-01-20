@@ -1,0 +1,11 @@
+{
+	"type": "Live2D Model Setting",
+	"name": "histoire",
+	"model": "histoire.moc",
+	"textures": [
+		"histoire.1024/texture_00.png",
+		"histoire.1024/texture_01.png",
+		"histoire.1024/texture_02.png",
+		"histoire.1024/texture_03.png"
+	]
+}

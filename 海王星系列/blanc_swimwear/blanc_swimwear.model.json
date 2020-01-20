@@ -1,0 +1,10 @@
+{
+	"version":"Sample 1.0.0",
+	"model":"blanc_swimwear.moc",
+	"textures":[
+		"blanc_swimwear.1024/texture_00.png",
+		"blanc_swimwear.1024/texture_01.png",
+		"blanc_swimwear.1024/texture_02.png"
+	],
+	"physics":"blanc_swimwear.physics.json"
+}

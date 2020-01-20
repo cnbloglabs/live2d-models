@@ -1,0 +1,11 @@
+{
+	"version":"Sample 1.0.0",
+	"model":"nepgear_extra.moc",
+	"textures":[
+		"nepgear_extra.1024/texture_00.png",
+		"nepgear_extra.1024/texture_01.png",
+		"nepgear_extra.1024/texture_02.png",
+		"nepgear_extra.1024/texture_03.png"
+	],
+	"physics":"nepgear_extra.physics.json"
+}

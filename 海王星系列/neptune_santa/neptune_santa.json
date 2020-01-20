@@ -1,0 +1,10 @@
+{
+	"object":{
+		"model":"neptune_santa.moc",
+		"texture":{
+			"filename0":"neptune_texture_00.png",
+			"filename1":"texture_02.png",
+			"filename2":"texture_01.png"
+		}
+	}
+}

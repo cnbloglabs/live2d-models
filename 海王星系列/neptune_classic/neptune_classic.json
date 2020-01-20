@@ -1,0 +1,9 @@
+{
+	"version":"Sample 1.0.0",
+	"model":"neptune_classic.moc",
+	"textures":[
+		"model.1024/neptune_texture_00",
+		"model.1024/neptune_texture_01",
+		"model.1024/neptune_classic_texture_02"
+	]
+}

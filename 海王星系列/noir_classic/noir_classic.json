@@ -1,0 +1,9 @@
+{
+	"version":"Sample 1.0.0",
+	"model":"noir_classic.moc",
+	"textures":[
+		"model.1024/00_body",
+		"model.1024/01_hair",
+		"model.1024/noir_classic_texture_02"
+	]
+}

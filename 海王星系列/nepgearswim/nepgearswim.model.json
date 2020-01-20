@@ -1,0 +1,10 @@
+{
+	"version":"Sample 1.0.0",
+	"model":"nepgearswim.moc",
+	"textures":[
+		"nepgearswim.1024/texture_00.png",
+		"nepgearswim.1024/texture_01.png",
+		"nepgearswim.1024/texture_02.png",
+		"nepgearswim.1024/texture_03.png",
+	],
+}
