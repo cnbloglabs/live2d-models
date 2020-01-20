@@ -1,0 +1,11 @@
+{
+	"version":"Sample 1.0.0",
+	"model":"vert_classic.moc",
+	"textures":[
+		"vert_classic.1024/texture_00.png",
+		"vert_classic.1024/texture_01.png",
+		"vert_classic.1024/texture_02.png",
+		"vert_classic.1024/texture_03.png"
+	],
+	"physics":"vert_classic.physics.json"
+}
