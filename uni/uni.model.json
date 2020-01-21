@@ -1,0 +1,11 @@
+{
+	"type": "Live2D Model Setting",
+	"name": "uni",
+	"model": "uni.moc",
+	"textures": [
+		"uni.1024/texture_00.png",
+		"uni.1024/texture_01.png",
+		"uni.1024/texture_02.png",
+		"uni.1024/texture_03.png"
+	]
+}
