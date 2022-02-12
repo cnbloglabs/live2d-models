@@ -1,2 +1,7 @@
-备选
-弃用
+# ide
+.idea
+
+# Mac General
+.DS_Store
+.AppleDouble
+.LSOverride
